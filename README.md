@@ -1,0 +1,2 @@
+# DiscreteFourierTransformation
+Python implementation of Discrete Fourier Transformation
